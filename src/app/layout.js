@@ -24,7 +24,7 @@ export const metadata = {
   url: "https://hayasaka.vercel.app",
   type: "website",
   icons: [{ rel: "icon", url: Favicon.src }],
-  site_name: "Hayasaka",
+  site_name: "bittuxd",
   manifest: "/manifest.json",
 };
 
