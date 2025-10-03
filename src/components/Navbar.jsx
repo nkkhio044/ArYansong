@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import logo from '../assets/hayasaka.png'
+import logo from '../assets/bittuxd.png'
 import Image from 'next/image'
 import Searchbar from './Searchbar'
 import Link from 'next/link'
