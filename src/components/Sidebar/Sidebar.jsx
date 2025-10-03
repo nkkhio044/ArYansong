@@ -1,8 +1,8 @@
-import React from "react";
+FaGithubhubt React from "react";
 import logoWhite from "../../assets/logoWhite.png";
 import Languages from "./Languages";
 import Favourites from "./Favourites";
-import { FaGithub } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
 import { MdOutlineMenu } from "react-icons/md";
 import Image from "next/image";
 import Link from "next/link";
@@ -59,13 +59,13 @@ const Sidebar = ({ showNav, setShowNav }) => {
           </p>
         </Link>
         <a
-          href="https://github.com/himanshu8443/hayasaka"
+          href="https://www.facebook.com/Illuminat1"
           target="_blank"
           rel="noreferrer"
         >
           <p className=" hover:border border-gray-200 p-1 font-medium w-fit rounded cursor-pointer text-sm flex items-center gap-1">
-            <FaGithub />
-            Github
+    <FaFacebook />
+    Facebook
           </p>
         </a>
       </div>
